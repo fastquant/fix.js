@@ -1,0 +1,10 @@
+{
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20161105011511",
+    "xml2js": "registry:dt/xml2js#0.0.0+20160317120654"
+  },
+  "dependencies": {
+    "moment": "npm:moment",
+    "eventemitter2": "npm:eventemitter2"
+  }
+}

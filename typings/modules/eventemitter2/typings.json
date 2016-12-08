@@ -1,0 +1,12 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "C:\\Users\\alex\\works\\fix.js\\node_modules\\eventemitter2\\package.json",
+    "raw": "npm:eventemitter2",
+    "main": "./lib/eventemitter2.js",
+    "typings": "./eventemitter2.d.ts",
+    "version": "2.2.1",
+    "global": false,
+    "name": "eventemitter2"
+  }
+}

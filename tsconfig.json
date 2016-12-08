@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "classic",
+        "module": "amd",
+        "target": "es5",
+        "outFile": "index.js",
+        "declaration": true,
+        "sourceMap": true
+    }
+}

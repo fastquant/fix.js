@@ -1,0 +1,12 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "C:\\Users\\alex\\works\\fix.js\\node_modules\\moment\\package.json",
+    "raw": "npm:moment",
+    "main": "./moment.js",
+    "typings": "./moment.d.ts",
+    "version": "2.17.0",
+    "global": false,
+    "name": "moment"
+  }
+}
